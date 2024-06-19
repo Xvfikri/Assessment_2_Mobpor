@@ -1,0 +1,81 @@
+<resources>
+
+    <string name="app_name">Ibox Id</string>
+    <string name="intro_idbox">
+        Selamat datang di Aplikasi Ibox Id!
+        \n\nAplikasi pencatatan pembelian product apple yang terpercaya.
+
+        \n Aplikasi ini akan mempermudah Pelayanan dan juga pencatatan penjualan product, mulai dari catatan keuangan,
+        sisa product dan juga kemudahan dalam pendataan
+    </string>
+
+    <string name="head">
+        Silahkan pilih product yang dibeli!
+    </string>
+
+    <string name="iphone_11">Iphone 11</string>
+    <string name="ipad_pro_11">Ipad Pro 11</string>
+    <string name="macbook3">Macbook 3</string>
+
+
+    <string name="time">12 jam</string>
+    <string name="time2">24 jam</string>
+    <string name="time3">1 – 2 hari</string>
+    <string name="time4">2 – 4 hari</string>
+    <string name="time5">1 minggu</string>
+
+
+    <string name="jumlah">Jumlah Product</string>
+    <string name="harga">Product</string>
+
+
+    <string name="hitung">Hitung</string>
+    <string name="setel_ulang">Reset</string>
+
+
+    <string name="total_harga">Total Harga : %1$.2f</string>
+    <string name="masukan_tidak_valid">Tidak Boleh Kosong.</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">
+        \nJumlah Pesanan : %1$s Pcs
+        \nJenis Product : %2$s
+        \nPencatatan : %3$s
+        \nTotal Harga : Rp %4$s
+    </string>
+
+
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">
+        Ibox merupakan Aplikasi Android pembelian product Ibox
+        yang dimana aplikasi ini memudahkan penjual dalam melakukan pencatatan terhadap pembelian product.
+
+
+        \n\nAplikasi ini dibuat untuk Asessment 2 Mobpro.
+        \nCopyright © 2024 Muhamad Alfikri Syahputra.
+        \nSemua hak cipta dilindungi undang-undang.
+    </string>
+
+
+    <string name="kembali">Kembali</string>
+
+    <string name="tambah_product" translatable="false">Tambah product</string>
+    <string name="edit_product" translatable="false">Edit product</string>
+    <string name="hapus_product" translatable="false">Hapus product</string>
+    <string name="invalid" translatable="false">Form Pengisian tidak boleh kosong.</string>
+    <string name="simpan_product" translatable="false">Simpan Product</string>
+    <string name="nama_pembeli" translatable="false">Nama Pembeli</string>
+    <string name="nomor_pembeli" translatable="false">nomor Telephone</string>
+    <string name="halaman_pembelian" translatable="false">Halaman Transaksi</string>
+
+    <string name="opsi_lain" translatable="false">Opsi Lain</string>
+    <string name="data_kosong" translatable="false">Halaman ini masih kosong</string>
+
+    <string name="list" translatable="false">Tampilan list</string>
+    <string name="grid" translatable="false">Tampilan grid</string>
+
+    <string name="pesan_hapus" translatable="false">Hapus catatan ini</string>
+    <string name="tombol_hapus" translatable="false">Hapus</string>
+    <string name="tombol_batal" translatable="false">Batal</string>
+
+
+</resources>
